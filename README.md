@@ -1,8 +1,14 @@
-# React + Vite
+## Menjalankan Aplikasi Frontend E-commerce kecil
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Prasyarat
+* Node.js terinstal
+* Backend sudah berjalan
 
-Currently, two official plugins are available:
+### Langkah Menjalankan
+```bash
+# Install dependensi
+npm install
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Jalankan aplikasi
+npm run dev
+```
